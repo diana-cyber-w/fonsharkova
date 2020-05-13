@@ -1,0 +1,1390 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url("../fonts/icomoon.eot?djgj6x");
+  src: url("../fonts/icomoon.eot?djgj6x#iefix") format("embedded-opentype"), url("../fonts/icomoon.ttf?djgj6x") format("truetype"), url("../fonts/icomoon.woff?djgj6x") format("woff"), url("../fonts/icomoon.svg?djgj6x#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+.icon-pencil:before {
+  content: "\e905"
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit
+}
+
+html,
+body {
+  height: 100%;
+  overflow-x: hidden
+}
+
+.product-one__tabs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center
+}
+
+.product-one__tabs .tab_content .tab-item {
+  display: none
+}
+
+.product-one__tabs .tab_content .tab-item:first-child {
+  display: block
+}
+
+.tabs {
+  border-bottom: none;
+  position: relative;
+  left: -9%;
+}
+
+.tabs .tab::before {
+  content: url(images/лумпа.png);
+  font-family: 'icomoon';
+  position: absolute;
+  left: 18px;
+  font-size: 25px;
+}
+
+.angle-background {
+  background-color: #7e4545;
+  width: 1023px;
+  height: 200px;
+  position: absolute;
+  top: 15px;
+  left: 52px;
+  z-index: 1;
+  opacity: 76%
+}
+
+ul {
+  margin-top: 0
+}
+
+li {
+  background-color: red;
+  width: 10px;
+  height: 70px;
+  display: inline-block;
+  text-decoration: none;
+  position: relative;
+  cursor: pointer
+}
+
+.one {
+  margin-right: 150px
+}
+
+.one:before {
+  content: '578';
+  color: #fff;
+  font-size: 40px;
+  line-height: 1.333;
+  text-shadow: none;
+  padding: 1px 5px;
+  background-color: #ed5565;
+  border-radius: 4px;
+  z-index: 1;
+  position: absolute;
+  top: -55px;
+  left: -29px
+}
+
+.two {
+  margin-right: 200px
+}
+
+.two:before {
+  content: '695';
+  color: #fff;
+  font-size: 40px;
+  line-height: 1.333;
+  text-shadow: none;
+  padding: 1px 5px;
+  background-color: #ed5565;
+  border-radius: 4px;
+  z-index: 1;
+  position: absolute;
+  top: -55px;
+  left: -29px
+}
+
+.three {
+  margin-right: 130px
+}
+
+.three:before {
+  content: '740';
+  color: #fff;
+  font-size: 40px;
+  line-height: 1.333;
+  text-shadow: none;
+  padding: 1px 5px;
+  background-color: #ed5565;
+  border-radius: 4px;
+  z-index: 1;
+  position: absolute;
+  top: -55px;
+  left: -29px
+}
+
+.four {
+  margin-right: 200px
+}
+
+.four:before {
+  content: '770';
+  color: #fff;
+  font-size: 40px;
+  line-height: 1.333;
+  text-shadow: none;
+  padding: 1px 5px;
+  background-color: #ed5565;
+  border-radius: 4px;
+  z-index: 1;
+  position: absolute;
+  top: -55px;
+  left: -29px
+}
+
+.five:before {
+  content: '862';
+  color: #fff;
+  font-size: 40px;
+  line-height: 1.333;
+  text-shadow: none;
+  padding: 1px 5px;
+  background-color: #ed5565;
+  border-radius: 4px;
+  z-index: 1;
+  position: absolute;
+  top: -55px;
+  left: -29px
+}
+
+.tab-question {
+  height: 672px;
+  width: 1100px;
+  background-color: #5c2020;
+  margin-top: 27px;
+  position: relative;
+  right: 24%;
+  overflow: hidden;
+}
+.schet{
+  color:#fff;
+  font-size:50px;
+}
+.none{
+  pointer-events:none;
+}
+.tab-question .angle {
+  background-color: #fff;
+  width: 900px;
+  height: 70px;
+  position: absolute;
+  top: 80px;
+  left: 90px;
+  z-index: 2
+}
+
+.tab-question .angle:after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 0;
+  right: -50px;
+  top: -27px;
+  border-top: 63px solid transparent;
+  border-left: 75px solid #fff;
+  border-bottom: 65px solid transparent
+}
+
+.ded {
+  height: 300px
+}
+
+.sorokovik1 {
+  position: absolute;
+  left: 0x;
+  bottom: -5px;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s
+}
+
+.sorokovik1:after {
+  content: url(../images/ellips.png);
+  position: absolute;
+  top: -118px;
+  left: 278px;
+  z-index: 1 !important
+}
+
+.books {
+  width: 700px;
+  height: 550px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s
+}
+
+.text {
+  font-size: 30px;
+  position: absolute;
+  bottom: 286px;
+  left: 402px;
+  z-index: 1;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  width: 250px
+}
+
+.words-of__sorokovik {
+  font-size: 35px;
+  margin-top: 10px;
+  text-transform: uppercase;
+  text-align: center
+}
+
+.tab-question2,
+.tab-question3 {
+  background-image: url(../images/ost/backk.png);
+  height: 672px;
+  width: 1100px;
+  position: relative;
+  margin-top: 27px;
+  overflow: hidden;
+  right: 24%;
+}
+
+.tab-question2 .button-1,
+.tab-question3 .button-1 {
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  position: absolute;
+  left: 0px;
+  top: 58px;
+  border: none;
+  color: #fff;
+  font-size: 48px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #b84443;
+  border-radius: 12px;
+  font-weight: 700;
+  outline: none;
+  -webkit-transition: all 3s;
+  -o-transition: all 3s;
+  transition: all 3s;
+  cursor: pointer;
+  z-index: 1
+}
+
+.tab-question2 .sorokovik2,
+.tab-question3 .sorokovik2 {
+  position: absolute;
+  left: 0;
+  bottom: -5px
+}
+
+.tab-question2 .sorokovik2:after,
+.tab-question3 .sorokovik2:after {
+  content: url(../images/ellips.png);
+  position: absolute;
+  top: 7px;
+  left: 267px;
+  z-index: 1
+}
+
+.tab-question2 .button-2,
+.tab-question3 .button-2 {
+  position: absolute;
+  left: 0px;
+  top: 175px;
+  border: none;
+  color: #fff;
+  font-size: 48px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #b84443;
+  border-radius: 12px;
+  font-weight: 700;
+  -webkit-transition: all 3s;
+  -o-transition: all 3s;
+  transition: all 3s;
+  outline: none;
+  cursor: pointer;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  z-index: 1
+}
+
+.tab-question2 .button-3,
+.tab-question3 .button-3 {
+  position: absolute;
+  left: 0px;
+  top: 293px;
+  border: none;
+  color: #fff;
+  font-size: 48px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  -webkit-transition: ease 3s;
+  -o-transition: ease 3s;
+  transition: ease 3s;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #b84443;
+  border-radius: 12px;
+  font-weight: 700;
+  outline: none;
+  cursor: pointer;
+  z-index: 1
+}
+
+.tab-question2 .ost,
+.tab-question3 .ost {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 380px;
+  z-index: 2
+}
+
+.tab-question2 .answers,
+.tab-question3 .answers {
+  color: #fff;
+  font-size: 20px;
+  width: 600px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500
+}
+
+.tab-question2 .answers .answer-1,
+.tab-question3 .answers .answer-1 {
+  position: absolute;
+  top: 30px;
+  width: 500px;
+  left: 90px;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-transition: all 2s;
+  -o-transition: all 2s;
+  transition: all 2s
+}
+
+.tab-question2 .answers .answer-2,
+.tab-question3 .answers .answer-2 {
+  position: absolute;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  top: 149px;
+  -webkit-transition: all 2s;
+  -o-transition: all 2s;
+  transition: all 2s;
+  width: 500px;
+  left: 90px
+}
+
+.tab-question2 .answers .answer-3,
+.tab-question3 .answers .answer-3 {
+  position: absolute;
+  top: 288px;
+  width: 530px;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-transition: all 2s;
+  -o-transition: all 2s;
+  transition: all 2s;
+  left: 90px
+}
+
+.tab-question2 .text-ost,
+.tab-question3 .text-ost {
+  font-size: 36px;
+  position: absolute;
+  bottom: 176px;
+  left: 401px;
+  z-index: 1;
+  width: 250px;
+  animation-duration:2s;
+}
+
+.tab-question2 .sorokovik::after,
+.tab-question3 .sorokovik::after {
+  top: 5px
+}
+
+#modal1,
+#modal2,
+#modal3,
+#modal4,
+#modal5,
+#modal6,
+#modal7,
+#modal8,
+#modal9,
+#modal10,
+#modal11 {
+  display: none
+}
+
+.nep {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 1
+}
+
+.lines-nep {
+  position: absolute;
+  right: 0;
+  top:2px;
+}
+
+.button-1-nep {
+  position: absolute;
+  left: 415px;
+  top: 85px;
+  border: none;
+  color: #fff;
+  font-size: 48px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #b84443;
+  border-radius: 12px;
+  font-weight: 700;
+  outline: none;
+  -webkit-transition: all 2s;
+  -o-transition: all 2s;
+  transition: all 2s;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  cursor: pointer;
+  z-index: 1
+}
+
+.button-2-nep {
+  position: absolute;
+  left: 415px;
+  top: 195px;
+  border: none;
+  color: #fff;
+  font-size: 48px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #b84443;
+  border-radius: 12px;
+  font-weight: 700;
+  outline: none;
+  -webkit-transition: all 2s;
+  -o-transition: all 2s;
+  transition: all 2s;
+  cursor: pointer;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  z-index: 1
+}
+
+.button-3-nep {
+  position: absolute;
+  left: 415px;
+  top: 293px;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  border: none;
+  color: #fff;
+  font-size: 48px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #b84443;
+  border-radius: 12px;
+  font-weight: 700;
+  outline: none;
+  cursor: pointer;
+  z-index: 1
+}
+
+.answer-1-nep {
+  position: absolute;
+  top: 95px;
+  left: 500px;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s
+}
+
+.answer-2-nep {
+  position: absolute;
+  top: 201px;
+  left: 500px;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s
+}
+
+.answer-3-nep {
+  position: absolute;
+  left: 500px;
+  top: 303px;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s
+}
+
+.tab-question3 {
+  background-image: url(../images/nep/bg-nep.png)
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+}
+
+.ul {
+  position: relative;
+  display: flex;
+  transform-style: preserve-3d;
+  transform: rotate(90deg) skew(20deg);
+}
+
+.ul .li {
+  position: relative;
+  list-style: none;
+  width: 100px;
+  height: 100px;
+  margin: 0 15px;
+}
+
+.ul .li:before {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 100%;
+  height: 10px;
+  background: #080000;
+  transform-origin: top;
+  transform: skewX(-41deg);
+}
+
+.ul .li:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -9px;
+  width: 9px;
+  height: 100%;
+  background: #080000;
+  transform-origin: right;
+  transform: skewY(-49deg);
+}
+
+.lua {
+  height: 50%;
+  width: 50%;
+}
+
+.ul .li span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  background: #c70039;
+  color: rebeccapurple;
+  font-size: 30px !important;
+  transition: 0.2s;
+  transform: rotate(-90deg);
+}
+
+.ul .li:hover span {
+  z-index: 1000;
+  transition: 0.5s;
+  color: rosybrown;
+  box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.ul .li:hover span:nth-child(5) {
+  transform: translate(40px, -40px);
+  opacity: 1;
+}
+
+.ul .li:hover span:nth-child(4) {
+  transform: translate(30px, -30px);
+  opacity: 0.8;
+}
+
+.ul .li:hover span:nth-child(3) {
+  transform: translate(20px, -20px);
+  opacity: 0.6;
+}
+
+.ul .li:hover span:nth-child(2) {
+  transform: translate(10px, -10px);
+  opacity: 0.4;
+}
+
+.ul .li:hover span:nth-child(1) {
+  transform: translate(0px, 0px);
+  opacity: 0.2;
+}
+
+.ul .li:nth-child(1):hover span {
+  background: #c70039;
+}
+
+.ul .li:nth-child(2):hover span {
+  background: #c70039;
+}
+
+.ul .li:nth-child(3):hover span {
+  background: #c70039;
+}
+
+.ul .li:nth-child(4):hover span {
+  background: #c70039;
+}
+
+.ul .li:nth-child(5):hover span {
+  background: #c70039;
+}
+//start map
+.tab-question4{
+ 
+  height: 672px;
+  width: 1100px;
+  position: relative;
+  margin-top: 27px;
+  overflow: hidden;
+  background-color: #5c2020;
+  right: 24%;
+  .vatichi{
+    position: absolute;
+    top: 133px;
+    left: 609px;
+    opacity: 0;
+  }
+  .kriv{
+    position:absolute;
+    top: -70px;
+    left: 690px;
+    opacity: 0;
+  }
+  .drag{
+    position: absolute;
+    left: 671px;
+    top: 343px;
+    opacity: 0;
+  }
+  .rad{
+    position: absolute;
+    left: 763px;
+    top: 1000px;
+    opacity: 0;
+  }
+  .drevl{
+    position: absolute;
+    left: 695px;
+    top: 416px;
+    opacity: 0;
+  }
+  .btn1_wrapper{
+    animation-duration: 2s;
+   
+    &:hover{
+      .vatichi{
+        opacity:1;
+        transition:all 2s;
+      }
+      .rad{
+        opacity:1;
+        transition:all 2s;
+        top: 240px;
+      }
+      .drag{
+        opacity:1;
+        transition:all 2s;
+        top: 235px;
+      }
+    }
+  }
+  .btn2_wrapper{
+    animation-duration: 2s;
+  
+    &:hover{
+      .kriv{
+        opacity:1;
+        transition:all 2s;
+        top: 11px;
+      }
+      .rad{
+        opacity:1;
+        top:1000px;
+        transition:all 2s;
+        top: 160px;
+      }
+      .drag{
+        opacity:1;
+        transition:all 2s;
+        top: 156px;
+      }
+    }
+  }
+  .btn3_wrapper{
+    animation-duration: 2s;
+    &:hover{
+      .kriv{
+        opacity:1;
+        transition:all 2s;
+      
+      }
+      .rad{
+        opacity:1;
+        transition:all 2s;
+        top: 81px;
+      }
+      .drevl{
+        opacity:1;
+        transition:all 2s;
+        top: 154px;
+      }
+    }
+  }
+  // .kartinka{
+  //   display:none;
+  //   position:absolute;
+  //   top:250px;
+  //   left: 500px;
+  // }
+  .map__sorokovik{
+    margin-left:545px;
+    margin-top: -335px;
+  
+  }
+  .btn1,
+  .btn2,
+  .btn3{
+    background-color: #7b4a4a;
+    border:none;
+    padding: 10px;
+    color:#fff;
+    font-family: 'Oswald', sans-serif;
+   font-weight: 500;
+   display:block;
+   font-size:30px;
+   width: 500px;
+   margin-bottom: 25px;
+   margin-left: 20px;
+   outline: none;
+
+  }
+  .var{
+    margin-bottom: 40px;
+    margin-top: -21px;
+    margin-left: 167px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    color: #fff;
+  }
+  
+  .question__map{
+    position:absolute;
+    z-index:1;
+    bottom:165px;
+    left: 380px;
+    font-size:30px;
+  }
+}
+
+.tab-question4 .sorokovik2 {
+  position: absolute;
+  left: 0;
+  bottom: -5px
+}
+
+.tab-question4 .sorokovik2:after {
+  content: url(../images/ellips.png);
+  position: absolute;
+  top: 7px;
+  left: 267px;
+  z-index: 1
+}
+
+
+
+//end map
+//uzlova
+.box{
+  background-color: #602323;
+  font-family: Arial ;
+  position: relative; 
+  width: 1110px;
+  height: 672px;
+  border: 1px solid black;
+  }
+    .sorocov{
+  position: absolute;
+  left: 0;
+  bottom: 0px;
+  
+  }
+  .pic {
+    position:relative;
+    left: 94px;
+    }
+  
+    .pic1{
+          margin-left: 95px;
+     
+    }
+    .pic2{
+     
+      left: 90;
+    }
+    .pic3{
+      left: 59;
+    }
+    .cotainer {
+      height: 70px;
+      width: 1110px;
+  
+    }
+   button {
+    border: none;
+    outline: none;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 18px;
+    background: #b84443;
+    padding: 10px 50px 20px 50px;
+    border-radius: 12px;
+    }
+    .a1{
+      position: absolute;
+      text-decoration: none;
+      color: #000000;
+       left: 182px;
+      top: 324px;
+    }
+    .a2{
+      position: absolute;
+      text-decoration: none;
+      color: #000000;
+      top: 324px;
+      left: 565px;
+  
+      }
+      .a3{
+      position: absolute;
+      text-decoration: none;
+      color: #000000;
+          top: 324px;
+      left: 924px;
+  
+      }
+    .b1{
+      
+          position: absolute;
+      left: 103px;
+      top: 291px;
+      cursor:pointer;
+    }
+  .b2{
+    position: absolute;
+    left: 477px;
+      top: 291px;
+      cursor:pointer;
+    }
+   .b3{
+     position: absolute;
+     top: 291px;
+      left: 844px;
+      cursor:pointer;
+   }
+   .lamp1{
+            margin: 0px -32px 125px -47px;
+   }
+   .lamp0{
+      margin-left: -47px;
+      margin-right: -32px;
+      margin-bottom: 125px;
+   }
+   .cloud{
+      position: absolute;
+      left: 260px;
+      top: 401px;}
+  .zad {
+    position: absolute;
+    left: 596px;
+    width: 500px;
+    bottom: 36px;
+  }
+  .text_uzl{
+  font-size: 20px;
+  }
+  .nav {
+    position: absolute;
+    left: 376px;
+    bottom: 158px;
+    font-size: 30px;
+    text-align: center;
+  
+  }
+  
+  .vistav{
+    position: absolute;
+    bottom: 79px;
+    width: 292px;
+    right: 90px;
+    font-size: 26px;
+  }
+   #modal_uzl_1{
+      display:none;
+      font-size: 40px;
+      width: 776px;
+      height: 550px;
+  }
+  #modal_uzl_2{
+      display:none;
+      font-size: 40px;
+      width: 770px;
+      height: 550px;
+  }
+  #modal_uzl_3{
+      display:none;
+      font-size: 40px;
+      width: 770px;
+      height: 550px;
+    }
+  .okno {
+    position: absolute;
+    left: 150px;
+  }
+  .okno1{
+    position: absolute;
+    left: 100px;
+  }
+  .happy{
+    position: absolute;
+    bottom: 0 ;
+  }
+  .sad{
+     position: absolute;
+    bottom: 0 ;
+    left: 0;
+  }
+  .sorokovik2{
+    animation-duration: 2s
+  }
+//end uzlova
+.lines{
+  margin-top: -53px;
+}
+
+//start sharkova polina 
+.tabs__sharkova{
+  border-bottom: none;
+    position: relative;
+    left: 4%;
+    top: -177px;
+}
+.tab-question__sharkova {
+  height: 672px;
+  width: 1100px;
+  background-color: #ffd868;
+  margin-top: 27px;
+  position: relative;
+  right: -10%;
+  overflow: hidden;
+}
+
+  h1{
+  font-size:36px;
+  }
+  span{
+  font-size:36px;
+  text-align: center;
+  display:block;
+  margin-bottom: 22px;
+  }
+  .text_polina {
+      background-color: #f7d061;
+      font-size: 26px;
+      text-align: center;
+      padding-right: 40px;
+      padding-left: 35px;
+      padding-bottom: 36px;
+      padding-top: 8px;
+      width: 100%;
+      margin-top: 30px;
+      max-width: 1050px;
+      margin-left: auto;
+      margin-right: auto;
+
+  
+  }
+  .sharic
+  {
+
+  height: 299px;
+  position: absolute;
+  bottom: 0;
+  width: 443px;
+
+
+  }
+  h2{
+
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 34px;
+      position: absolute;
+      bottom:50px;
+      left: 70px;}
+      .obl
+      {
+          position: absolute;
+          right: 552px;
+          bottom: 115px;
+          width: 276px; 
+          height: 201px;
+      }
+      .knopki
+      {
+          display: flex;
+          flex-wrap: wrap;
+          height: 203px;
+          width: 544px;
+          align-content: space-around;
+          justify-content: space-around;
+          position: absolute;
+          right: 3px;
+          bottom: 32px;
+      }
+  .knopka1
+  {
+  background-color: #d5b046;
+  right: 500px;
+  width: 240px;
+  height: 65px;
+  border-color: #565656;
+  border-radius: 1px;
+  font-size:28px;
+  font-weight: 15;
+  }
+  .knopka2
+  {
+
+      background-color: #d5b046;
+      right: 500px;
+      width: 240px;
+      height: 65px;
+      border-color: #565656;
+      border-radius: 1px;
+      font-size:28px;
+  }
+  .knopka3
+  {
+      background-color: #d5b046;
+      right: 550px;
+      width: 240px;
+      height: 65px;
+      border-color: #565656;
+      border-radius: 1px; 
+      font-size:28px;
+  }
+  .knopka4
+  {   background-color: #d5b046;
+      right: 550px;
+      width: 240px;
+      height: 65px;
+      border-color: #565656;
+      border-radius: 1px;
+      font-size:28px;
+
+
+  }
+  .reshi
+  {
+      font-size: 29px;
+      width: 192px;
+      text-align: center;
+      position: absolute;
+      margin-left: 317px;
+      bottom: 193px;
+  }
+  #modal36{
+      display: none;
+      font-size: 132px;
+      width: 893px;
+      height: 603px;
+  
+
+  
+  }
+  #modal37{
+      display:none;
+      font-size: 40px;
+
+      width: 945px;
+      
+      height: 591px;
+  
+  }
+  .nev
+  {
+      font-size: 40px;
+
+      position: absolute;
+      
+      bottom: 25px;
+      
+      left: 25px;
+    
+  }
+  .sadshar
+  {
+      width: 577px;
+
+      height: 489px;
+      
+      position: relative;
+      
+      right: -107px;
+      
+      bottom: 58px;
+  
+  }
+  .kindshar
+  {
+      width: 890px;
+
+      height: 460px;
+      
+      position: relative;
+      
+      right: -9px;
+      
+      bottom: 27px;
+
+  }
+  .ver
+{
+  position: absolute;
+
+  right: 97PX;
+  bottom: 26px;
+
+
+}
+ //end the first polina
+
+ //start polina the second sharkova
+
+ .desk
+ {
+     display: block;
+     margin: 0 auto;
+     margin-top: 0px;
+     height: 385px;
+     width: 818px;
+ }
+ .money
+ {
+     
+     width: 100%;
+     position: absolute;
+     bottom: 0;
+ }
+ .sharic
+ {
+     position: absolute;
+     bottom: 0;
+     width: 461px;
+     height: 297px;
+ }
+.obl_polina
+{
+ position: absolute;
+ right: 471px;
+ bottom: 92px;
+}
+.text_polina2
+{
+ position: absolute;
+ font-size: 23px;
+ text-align: center;
+ left: 329px;
+ bottom: 170px;
+
+}
+.graf1
+{
+ position: absolute;
+ top: 50px;
+ left: 182px;
+}
+.graf2
+{
+ position: absolute;
+ top: 32px;
+ left: 416px;
+}
+.graf3
+{
+ position: absolute;
+ top: 62px;
+ left: 623px;
+}
+.odin
+{
+  background-color: white;
+  position: absolute;
+  top: 301px;
+  font-size: 30px;
+  color: red;
+  left: 288px;
+  border-color: white;
+  padding: 5px;
+  border: 2px solid grey;
+  border-radius: 11px;
+  
+}
+.dva
+{
+  background-color: white;
+  position: absolute;
+  top: 301px;
+  font-size: 30px;
+  color: red;
+  left: 513px;
+  border-color: white;
+  padding: 5px;
+  border: 2px solid grey;
+  border-radius: 11px;
+
+}
+.tri
+{
+  background-color: white;
+  position: absolute;
+  top: 301px;
+  font-size: 30px;
+  color: red;
+  left: 769px;
+  border-color: white;
+  padding: 5px;
+  border: 2px solid grey;
+  border-radius: 11px;
+
+}
+#graf
+{
+ display:none;
+ font-size: 40px;
+
+ width: 945px;
+ 
+ height: 591px;
+
+}
+#mod
+{
+ display: none;
+
+ font-size: 132px;
+ width: 935px;
+ height: 603px;
+
+}
+.zlost
+{
+
+ width: 891px;
+height: 481px;
+position: relative;
+right: 0px;
+bottom: 68px;
+ 
+ }
+ .verno
+ {
+   
+     position: absolute;
+     right: 82PX;
+     bottom: 40px;
+ }
+ .neverno
+ {
+     font-size: 40px;
+
+     position: absolute;
+     
+     bottom: 25px;
+     
+     left:173px;
+     text-align: center;
+ }
+ .radost
+ {
+     width: 890px;
+
+     height: 460px;
+     
+     position: relative;
+     
+     right: -7px;
+     
+     bottom: 27px;
+ }
+ .fa-search:before{
+  display:none
+}
+ //end polina the second sharkova
